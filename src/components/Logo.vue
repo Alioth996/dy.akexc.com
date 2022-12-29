@@ -1,15 +1,12 @@
 <template>
     <div class="logo">
-        <div class="logo-bg"></div>
+        <div class="logo-bg">
+        </div>
         <h1>
             <a href="#">侗 语</a>
         </h1>
     </div>
 </template>
-  
-<script setup>
-</script>
-  
 <style scoped lang="less">
 .logo {
     position: relative;
